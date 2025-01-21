@@ -2,4 +2,4 @@
 first repository
  hello world
 hi there
-Author Kranthi kumar
+Author Kranthi kumar chinthala palli
